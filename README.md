@@ -32,12 +32,7 @@ Cada ejercicio se encuentra organizado en una carpeta independiente:
 * `09-inversion`
 * `10-busqueda`
 
-## Lenguaje utilizado
+Autor:
+   Vasquez Purizaca Brigitte Nathaly (Practicante) - Corporación Ortega
 
-* PHP
 
-## Herramientas utilizadas
-
-* Visual Studio Code
-* Git Bash
-* GitHub
